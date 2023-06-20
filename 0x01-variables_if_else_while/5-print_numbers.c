@@ -2,10 +2,11 @@
 #include <stdlib.h>
 
 /**
- * main -  function returns  single digit numbers of base 10
+ * main - Prints all single digit numbers of base 10 starting from 0.
  *
- * Retuen: 0 if success
+ * Return: 0 if success.
  */
+
 int main(void)
 {
 

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main return single digit numbers of base 10
+ * main -  return single digit numbers of base 10
  *
  * Retuen: 0 if success
  */

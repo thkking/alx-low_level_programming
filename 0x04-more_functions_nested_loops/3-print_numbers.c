@@ -1,6 +1,4 @@
 #include "main.h"
-#include <unistd.h>
-#include<stdio.h>
 
 /**
  * print_numbers - Print the numbers 0 up to 9

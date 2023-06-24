@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_tiagle - Print a triangle of square accroding
+ * print_triangle - Print a triangle of square accroding
  * parameter
  * @size: The size of the squares triangle
  * Return: empty

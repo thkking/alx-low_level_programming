@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include "main.h"
+#include <math.h>
 
 /**
- * main - Print the largest prime factor
+ * main - Print the largest prime factor 612852475143
  * Return: 0 if success
  */
 
@@ -10,7 +10,8 @@ int main(void)
 {
 	long x;
 	long maxf;
-	double number = 612852475143
+	long number = 612852475143;
+	double square = sqrt(number);
 
 		for (x = 1; x <= square; x++)
 		{

@@ -5,7 +5,7 @@
  * Return: empty
  */
 
-void print_sqaure(int size)
+void print_square(int size)
 {
 int x;
 int y;
@@ -20,7 +20,7 @@ for (x = 0; x < size; x++)
 {
 for (y = 0; y < size; y++)
 {
-_putcharr(35);
+_putchar(35);
 }
 _putchar('\n');
 }
